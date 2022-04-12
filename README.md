@@ -1,6 +1,4 @@
-# Progetto_Gruppo5
-
-#Come si muovono i taxi a New York? 
+# Progetto_Gruppo5 : Come si muovono i Taxi a New York?
 
 In questo progetto
 svolgiamo un'analisi dei taxi a New York. In particolare, siamo curiosi di
