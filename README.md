@@ -1,6 +1,6 @@
 # Progetto_Gruppo5
-Repository per i progetti del corso di Programmazione
-Come si muovono i taxi a New York? 
+
+#Come si muovono i taxi a New York? 
 
 In questo progetto
 svolgiamo un'analisi dei taxi a New York. In particolare, siamo curiosi di
